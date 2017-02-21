@@ -3,6 +3,7 @@ Code to «snapify» this interpreter made to work on gtk2.
 
 ##Build
 Install snapcraft: https://snapcraft.io/create/
+
 Clone and `cd` into the folder of the project
 `snapcraft`
 
@@ -13,7 +14,7 @@ Clone and `cd` into the folder of the project
 ###Remote copy
 TBD
 
-Run
+###Run
 type `level9.glklevel9`
 
 ##Errors known
