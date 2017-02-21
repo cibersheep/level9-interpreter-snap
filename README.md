@@ -2,7 +2,7 @@
 Code to «snapify» this interpreter made to work on gtk2.
 
 ##Build
-Install snapcraft: [https://snapcraft.io/create/]https://snapcraft.io/create/
+Install snapcraft: https://snapcraft.io/create/
 Clone and `cd` into the folder of the project
 `snapcraft`
 
