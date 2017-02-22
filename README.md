@@ -25,5 +25,8 @@ When running terminal shows:
 Gtk-Message: Failed to load module "unity-gtk-module"
 Gtk-Message: Failed to load module "canberra-gtk-module"
 Gtk-Message: Failed to load module "canberra-gtk-module"
+
+(gtklevel9:2071): dconf-WARNING **: failed to commit changes to dconf: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.207" (uid=1001 pid=2071 comm="/snap/level9/2/gtklevel9 ") interface="ca.desrt.dconf.Writer" member="Change" error name="(unset)" requested_reply="0" destination="ca.desrt.dconf" (uid=1001 pid=3018 comm="/usr/lib/dconf/dconf-service ")
+
 ```
 Is it from snappy?
