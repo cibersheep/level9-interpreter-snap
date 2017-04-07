@@ -1,4 +1,4 @@
-# level9-interpreter-snap
+# Level 9 Interpreter Snap
 Code to «snapify» this interpreter made to work on gtk2.
 
 ## Build
@@ -15,13 +15,13 @@ Clone and `cd` into the folder of the project
 #### Distros with Snap Enabaled by Default
  `sudo snap install level9` from the command line or
  
- from the Ubuntu Software store
+ from the Ubuntu Software store search for "Level9"
  
 #### Distros with Snap Support
 Check https://snapcraft.io/docs/core/install
 
 ### Run
-type `level9.glklevel9`
+Type `level9.glklevel9` or `level9` from command line
 
 ## Known Errors
 When running terminal shows:
