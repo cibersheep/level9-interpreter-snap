@@ -1,23 +1,29 @@
 # level9-interpreter-snap
 Code to «snapify» this interpreter made to work on gtk2.
 
-##Build
+## Build
 Install snapcraft: https://snapcraft.io/create/
 
 Clone and `cd` into the folder of the project
 `snapcraft`
 
-##Installation
-###Local copy
+## Installation
+### Local Snap
 `sudo snap install ./level9_X.X_amd64.snap --devmode`
 
-###Remote copy
-TBD
+### Remote Snap
+#### Distros with Snap Enabaled by Default
+ `sudo snap install level9` from the command line or
+ 
+ from the Ubuntu Store
+ 
+#### Distros with Snap Support
+Check https://snapcraft.io/docs/core/install
 
-###Run
+### Run
 type `level9.glklevel9`
 
-##Errors known
+## Known Errors
 When running terminal shows:
 ```
 (process:2165): Gtk-WARNING **: Locale not supported by C library.
