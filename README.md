@@ -15,7 +15,7 @@ Clone and `cd` into the folder of the project
 #### Distros with Snap Enabaled by Default
  `sudo snap install level9` from the command line or
  
- from the Ubuntu Store
+ from the Ubuntu Software store
  
 #### Distros with Snap Support
 Check https://snapcraft.io/docs/core/install
